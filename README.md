@@ -1,3 +1,3 @@
 # ChatPT
 
-En fungerande Next.js-baserad hemsida.
+En AI-driven PT-tjänst byggd med Next.js.
