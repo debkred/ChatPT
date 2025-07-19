@@ -1,0 +1,1 @@
+Här kan du lägga bilder som används i appen.
