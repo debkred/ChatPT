@@ -1,1 +1,0 @@
-Här kan du lägga bilder som används i appen, t.ex. /logo.png eller bakgrundsbilder.
